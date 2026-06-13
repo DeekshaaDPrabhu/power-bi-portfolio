@@ -6,4 +6,4 @@ Power BI dashboard analyzing delivery operations, customer satisfaction, and key
 
 ## Dashboard Preview
 
-![Dashboard Overview](overview.png)
+![Executive Overview](Overview.png)
