@@ -1,2 +1,9 @@
-# power-bi-portfolio
-Collection of Power BI dashboards demonstrating business intelligence, data modeling, DAX, Power Query, and data visualization skills.
+# Quick Commerce Delivery Analytics Dashboard
+
+## Overview
+
+Power BI dashboard analyzing delivery operations, customer satisfaction, and key performance metrics for a quick commerce business.
+
+## Dashboard Preview
+
+![Dashboard Overview](overview.png)
